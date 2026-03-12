@@ -58,6 +58,7 @@ form.reset();
 charCount.textContent = 0;
 
 
+
 document.body.addEventListener("click" , function() {
     console.log("Body Clicked");
 });
