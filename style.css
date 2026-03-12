@@ -1,0 +1,17 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+}
+.tooltip {
+    display: none;
+    color: blue;
+    font-size: 12px;
+}
+feedback-display {
+margin-top: 20px;
+border-top: 1px solid gray;
+padding-top: 10px;
+}
+.feedback-entry {
+    margin-bottom: 10px;
+}
